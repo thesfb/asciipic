@@ -1,5 +1,5 @@
 # ASCIIPIC
-
+### Scroll bottom for examples!
 ASCIIPIC is a high-performance command-line tool written in Go that converts images into ASCII art. It supports true-color terminal output and includes a specialized PNG exporter that applies a background luminosity effect, producing vibrant, high-contrast results suitable for sharing.
 
 ---

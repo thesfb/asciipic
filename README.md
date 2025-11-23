@@ -124,9 +124,11 @@ Using the Braille character set with enhanced brightness:
 - `golang.org/x/image`
 
 ---
+## Examples
 
-![Before](assets/before.jpg)
-![After](assets/after.png)
+![Before](assets/2.jpg)
+![After](assets/2after.png)
+
 
 ## License
 

@@ -1,4 +1,5 @@
-module asciipic
+module github.com/thesfb/asciipic
+
 
 go 1.24.0
 

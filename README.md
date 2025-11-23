@@ -37,13 +37,13 @@ Supports JPEG and PNG input files.
 ### Install via Go
 
 ```sh
-go install github.com/yourusername/asciipic@latest
+go install github.com/thesfb/asciipic@latest
 ```
 
 ### Build from Source
 
 ```sh
-git clone https://github.com/yourusername/asciipic.git
+git clone https://github.com/thesfb/asciipic.git
 cd asciipic
 go build -o asciipic main.go
 ```

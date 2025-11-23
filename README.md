@@ -125,6 +125,9 @@ Using the Braille character set with enhanced brightness:
 
 ---
 
+![Before](assets/before.jpg)
+![After](assets/after.png)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for details.

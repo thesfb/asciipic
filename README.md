@@ -4,6 +4,10 @@ ASCIIPIC is a high-performance command-line tool written in Go that converts ima
 
 ---
 
+![Before](assets/before.jpg)
+![Before](assets/after.png)
+
+
 ## Features
 
 ### True Color Support
